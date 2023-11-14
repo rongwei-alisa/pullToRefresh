@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-color: pink;
+}
+
+#content {
+    padding: 12px;
+}
+
+#pull-down-text {
+    position: absolute;
+    width: 100%;
+    transform: translateY(-100%);
+    text-align: center;
+}
